@@ -1,0 +1,27 @@
+{
+    "success": {
+        "total": 1
+    },
+    "contents": {
+        "quotes": [
+            {
+                "quote": "He who is not courageous enough to take risks will accomplish nothing in life.",
+                "length": "78",
+                "author": "Mohamad Ali",
+                "tags": [
+                    "courage",
+                    "inspire",
+                    "risk",
+                    "tod"
+                ],
+                "category": "inspire",
+                "date": "2019-11-18",
+                "permalink": "https://theysaidso.com/quote/mohamad-ali-he-who-is-not-courageous-enough-to-take-risks-will-accomplish-nothin",
+                "title": "Inspiring Quote of the day",
+                "background": "https://theysaidso.com/img/bgs/man_on_the_mountain.jpg",
+                "id": "ifuqTGVbNWPSJIzhrGQakQeF"
+            }
+        ],
+        "copyright": "2017-19 theysaidso.com"
+    }
+}
